@@ -1,16 +1,8 @@
 [
   {
-    "img": "https://s6.uupload.ir/files/inshot_۲۰۲۲۰۹۲۹_۱۸۳۰۲۰۲۴۹_ve1l.jpg",
-    "icon": "https://myket.ir/app-icon/com.rp.tiles_9a98055e-0a04-4403-9d7f-8774b61fdbd8.png",
-    "name": "پیانو فایر - اوج هیجان و سرگرمی ",
-    "img1": "https://assets.myket.ir/screenshots/xlarge/com.rp.tiles/a4c0141d-f664-4f08-85cb-033a05f45dc0.png",
-    "img2": "https://assets.myket.ir/screenshots/xlarge/com.rp.tiles/02d05a07-83a9-4c2a-b329-83dcf283ed88.png",
-    "img3": "https://assets.myket.ir/screenshots/xlarge/com.rp.tiles/9b701f5c-61ce-4356-9f50-3513f5739fa5.png",
-    "img4": "https://assets.myket.ir/screenshots/xlarge/com.rp.tiles/07dcddfc-2f53-428a-9bd6-71ce56d6536f.png",
-    "bio1": "10+",
-    "bio2": "1 مگابایت ",
-    "bio3": "استودیو رومینو",
-    "tex": "‏‏بازی حیجان انگیز و استراتژیک پیانو فایر 🎹\n‏حیجانی باور نکردنی 🔥\nبا 5+ سطح مختلف 🛸",
-    "dan": "https://s6.uplod.ir:182/d/2k2z5d4j4hvhuf6t7cnz34bou7bljmvnk6b7hkrtqdahn3gflnkqotdgr5yagt6tcshzawaa/base.apk"
+    "img": "https://assets.myket.ir/screenshots/xlarge/com.my.game.net.th/e0ce2540-690f-4124-9c94-ae5508465ecb.png",
+    "icon": "https://myket.ir/app-icon/com.my.game.net.th_cfb1fb7e-9aad-4f9b-8744-f26a755c593e.png",
+    "name": "گیم نت🕹",
+    "bio": "دسترسی به دنیایی از بازی!"
   }
 ]
